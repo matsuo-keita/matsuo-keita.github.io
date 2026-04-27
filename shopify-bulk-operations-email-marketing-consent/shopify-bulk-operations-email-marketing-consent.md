@@ -16,12 +16,12 @@ You will need the following three tools:
 
 Workflow
 
-1.アップロードする顧客のfile(JSONL)を作る
-2.アップロード先を作成する
-3.実際にアップロードする
-4.bulkOperationを実行する 
-5.実行状況を確認
-6.COMPLETEDなら、urlを確認し、errorが出ていないかを確認
+1. アップロードする顧客のfile(JSONL)を作る
+2. アップロード先を作成する
+3. 実際にアップロードする
+4. bulkOperationを実行する 
+5. 実行状況を確認
+6. COMPLETEDなら、urlを確認し、errorが出ていないかを確認
 
 
 1.アップロードする顧客のfile(JSONL)を作る
